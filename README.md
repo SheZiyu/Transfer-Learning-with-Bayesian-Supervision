@@ -11,7 +11,6 @@ GitHub Repository: https://github.com/thuml/CoTuning
 
 I modified it to deal with Overall Survival (OS) classification of patients with Primary Central Neural System Lymphoma (PSNSL) using 3D Magnetic Resonance Imaging (MRI): 
 
-![cotune_1](https://github.com/SheZiyu/Transfer-Learning-with-Bayesian-Supervision/assets/98766434/e2fa0532-dcfa-4eea-acaf-785dd5083cb6)
+![cotune_1](https://github.com/SheZiyu/Transfer-Learning-with-Bayesian-Supervision/assets/98766434/ebef4389-790d-44e3-b64a-8a71464615af)
 
-   ![1](https://github.com/SheZiyu/Transfer-Learning-with-Bayesian-Supervision/assets/98766434/7858638b-c351-4400-9d18-52c6a3c852e0)
 
